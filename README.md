@@ -1,4 +1,12 @@
-### Hi there 👋
+## ✨ Projects coming soon! ✨
+
+### Hi! 👋
+
+### I'm Sarunas from Vilnius, Lithuania. My background is in Medicine, but now I'm starting as a data analyst thanks to a great course by Turing College <img src="/tc_icon.jpeg" width="25" height="25">. I'm driven to learn as much as I can and use my skills for healthcare data projects.
+
+### [Find me on LinkedIn.](https://www.linkedin.com/in/%C5%A1ar%C5%ABnas-valinskas-a3b7641b2/)
+
+
 
 <!--
 **svalinskas/svalinskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
